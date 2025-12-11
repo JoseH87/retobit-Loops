@@ -34,7 +34,6 @@ public class Loops {
         int count = 0;
         int counter = 0;
         do{
-
             if(numbers[counter] % 2 == 0) {
                 count++;
             }
